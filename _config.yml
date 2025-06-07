@@ -4,9 +4,9 @@ author: svijsv
 theme: minima
 
 defaults:
-	- # Can specify multiple defaults, each section beginning with a '-'
-		scope:
-			path: "" # an empty string here means all files in the project
-			type: "posts" # pages, posts, drafts, or any collection; optional.
-		values:
-			layout: "default"
+  - # Can specify multiple defaults, each section beginning with a '-'
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # pages, posts, drafts, or any collection; optional.
+    values:
+      layout: "default"
