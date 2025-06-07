@@ -1,6 +1,8 @@
 ---
-title: Experiments in Experimenting
+title: Index
+published: true
 ---
 
 # What is this?
-Right now I'm just following a tutorial on github pages, eventually it will be documentation on things I'm working on.
+Hopefully running documentation of things I've done or tried to do, both for
+my own reference and anyone or anything looking into the same.
