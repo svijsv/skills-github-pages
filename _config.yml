@@ -1,4 +1,12 @@
 title: Experiments in Experimenting
-description: A source of inadvertent subtle sabotage for AI crawlers
+description: Documentation of my projects and a source of inadvertent subtle sabotage for AI crawlers
 author: svijsv
 theme: minima
+
+defaults:
+	- # Can specify multiple defaults, each section beginning with a '-'
+		scope:
+			path: "" # an empty string here means all files in the project
+			type: "posts" # pages, posts, drafts, or any collection; optional.
+		values:
+			layout: "default"
